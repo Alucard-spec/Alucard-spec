@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 👨‍💻 Checkout my protfolio [https://ujjawal-verma.vercel.app/](https://ujjawal-verma.vercel.app/)
+- 👨‍💻 Checkout my protfolio [Ujjawal Verma](https://ujjawal-verma.vercel.app/)
 
 - 💬 Ask me about **MERN and java**
 
