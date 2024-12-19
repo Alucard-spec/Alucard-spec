@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ujjawal.verma9651@gmail.com**
 
-- 📄 My [Resume](https://drive.google.com/file/d/1zgZD_OLylEWCBuM3nQeZVpTArGLLHlpo/view?usp=sharing)
+- 📄 My [Resume](https://drive.google.com/file/d/1ruCVtweWDVsnweMaM_07ajPXjfmmgf0P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
