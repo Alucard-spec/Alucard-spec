@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujjawal Verma</h1>
-<h3 align="center">A Full Stack Developer and a BTech CS undergrad.</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Unity**
 
